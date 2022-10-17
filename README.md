@@ -12,7 +12,7 @@
 
 </center>
 
-![My Image](https://raw.githubusercontent.com/networkwithoutborders/gitstats/master/generated/overview.svg#gh-dark-mode-only)
+![My Image](https://raw.githubusercontent.com/networkwithoutborders/gitstats/master/generated/overview.svg)
  ---
  
 <!--
