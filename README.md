@@ -12,8 +12,6 @@
 
 </center>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dotslashsimran&&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515" img align="left"> 
-
 [![NWB's GitHub stats](https://github-readme-stats.vercel.app/api?username=networkwithoutborders)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
