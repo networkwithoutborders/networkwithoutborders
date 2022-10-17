@@ -12,7 +12,8 @@
 
 </center>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=networkwithoutborders&theme=blue-green" alt="networkwithoutborders" /> 
+![](https://raw.githubusercontent.com/networkwithoutborders/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
  ---
  
 <!--
