@@ -12,7 +12,7 @@
 
 </center>
 
-![](https://raw.githubusercontent.com/networkwithoutborders/gitstats/master/generated/overview.svg#gh-dark-mode-only)
+![NWB Stats](https://raw.githubusercontent.com/networkwithoutborders/gitstats/master/generated/overview.svg#gh-dark-mode-only)
  ---
  
 <!--
