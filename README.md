@@ -12,8 +12,7 @@
 
 </center>
 
-<p><img src="https://raw.githubusercontent.com/networkwithoutborders/gitstats/master/generated/overview.svg#gh-dark-mode-only" alt="gitstats" /></p>
-
+![My Image](https://raw.githubusercontent.com/networkwithoutborders/gitstats/master/generated/overview.svg#gh-dark-mode-only)
  ---
  
 <!--
